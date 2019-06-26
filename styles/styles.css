@@ -18,9 +18,8 @@ nav{
     border-radius: 10px;
 }
 .articulos{
-    top: 30px;
-    position: relative;
-    margin: auto;
+    margin: 0px auto;
+    margin-top: 50px;
     background: whitesmoke;
     width: 80%;
     height: 100%;
@@ -41,7 +40,15 @@ nav{
     .articulos a:hover{
         color: rgba(255, 166, 0, 0.918);
     }
+    .texto{
+        background: rgb(139, 12, 12);
+         color: white;
+         width: 70%;
+         font-size: 30px;
+         margin: auto;
+         padding: 10px; 
 
+    }
 
 
 
