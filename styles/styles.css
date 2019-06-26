@@ -17,3 +17,32 @@ nav{
     padding: 20px;
     border-radius: 10px;
 }
+.articulos{
+    top: 30px;
+    position: relative;
+    margin: auto;
+    background: whitesmoke;
+    width: 80%;
+    height: 100%;
+}   
+    .articulos h1{
+        text-align: center;
+        font-size: 40px;
+    }
+    .articulos ul li{
+        list-style: none;
+    }
+    .articulos a{
+        padding: 50px;
+        color: black;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .articulos a:hover{
+        color: rgba(255, 166, 0, 0.918);
+    }
+
+
+
+
+
